@@ -1,5 +1,5 @@
-a2test
-======
+as2test
+=======
 
 This is the test suite for the Activity Streams 2.0 (AS2) data format. It tests
 implementations to make sure that they correctly produce and/or consume AS2.
